@@ -1,0 +1,7 @@
+Zen Embedding 2
+Copyright 2026 Hanzo AI and Zoo Labs Foundation, for the packaging in this repository.
+
+This product redistributes EmbeddingGemma 2 (google/embeddinggemma-2,
+revision 914f7f89142e33e77833254d9c9b90c3cef7303b) by Google DeepMind,
+licensed under the Apache License, Version 2.0. The weights are unchanged.
+Weights: https://huggingface.co/zenlm/zen-embedding-2
